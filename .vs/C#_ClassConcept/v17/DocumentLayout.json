@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Working\\C#\\C#_ClassConcept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FECA815-2987-40ED-BC76-5CB22B1E6208}|C#_ClassConcept\\C#_ClassConcept.csproj|d:\\working\\c#\\c#_classconcept\\c#_classconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FECA815-2987-40ED-BC76-5CB22B1E6208}|C#_ClassConcept\\C#_ClassConcept.csproj|solutionrelative:c#_classconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\C#_ClassConcept\\C#_ClassConcept\\Program.cs",
+              "RelativeDocumentMoniker": "C#_ClassConcept\\Program.cs",
+              "ToolTip": "D:\\Working\\C#\\C#_ClassConcept\\C#_ClassConcept\\Program.cs",
+              "RelativeToolTip": "C#_ClassConcept\\Program.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAPIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:49:44.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

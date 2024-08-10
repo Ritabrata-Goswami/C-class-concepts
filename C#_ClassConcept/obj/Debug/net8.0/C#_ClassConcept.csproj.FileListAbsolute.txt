@@ -1,0 +1,14 @@
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\bin\Debug\net8.0\C#_ClassConcept.exe
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\bin\Debug\net8.0\C#_ClassConcept.deps.json
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\bin\Debug\net8.0\C#_ClassConcept.runtimeconfig.json
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\bin\Debug\net8.0\C#_ClassConcept.dll
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\bin\Debug\net8.0\C#_ClassConcept.pdb
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.AssemblyInfoInputs.cache
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.AssemblyInfo.cs
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.csproj.CoreCompileInputs.cache
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.dll
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\refint\C#_ClassConcept.dll
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.pdb
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\C#_ClassConcept.genruntimeconfig.cache
+D:\Working\C#\C#_ClassConcept\C#_ClassConcept\obj\Debug\net8.0\ref\C#_ClassConcept.dll
